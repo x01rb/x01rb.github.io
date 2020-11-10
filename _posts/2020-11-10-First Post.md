@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Blog
+title: Jekyll info
 published: true
 ---
 
