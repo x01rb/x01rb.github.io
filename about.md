@@ -2,14 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Thanks browsing this site!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This site is built for write-ups, and posts about some topics in cyber security, so this site for 
+education only, nothing more.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[x0xcy832@gmail.com](mailto:x0xcy832@gmail.com)
