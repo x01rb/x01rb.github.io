@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Thanks browsing this site!
+Thanks for browsing this site!
 
 
 
