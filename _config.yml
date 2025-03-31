@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: x0xcy832
+name: x01rb
 
 # Short bio or description (displayed in the header)
 description: Site Underconstruction
@@ -18,18 +18,18 @@ avatar: https://avatars1.githubusercontent.com/u/61755251?s=400&u=82ab97a962bc43
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: x0xcy832@gmail.com
-  facebook: x0xcy832
+  email: hussien.faour.me
+  facebook: 
   flickr:
-  github: x0xcy832
+  github: x01rb
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: x0xcy832
+  X: x01rb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  # googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
