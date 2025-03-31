@@ -11,6 +11,4 @@ Thanks browsing this site!
 
 This site is built for posting info about like bug bounty write-ups, and posts about some topics in cyber security, so this site for education only, nothing more.
 
-### Contact me
 
-[hussien.faour.me@gmail.com](mailto:hussien.faour.me@gmail.com)
