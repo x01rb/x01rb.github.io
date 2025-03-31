@@ -13,4 +13,4 @@ This site is built for posting info about like bug bounty write-ups, and posts a
 
 ### Contact me
 
-[x0xcy832@gmail.com](mailto:x0xcy832@gmail.com)
+[hussien.faour.me@gmail.com](mailto:hussien.faour.me@gmail.com)
